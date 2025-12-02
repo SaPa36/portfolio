@@ -1,0 +1,31 @@
+# Imteaz Hossen - Portfolio Website
+
+This is the personal portfolio website of Md. Imteaz Hossen, a passionate Full-Stack Web Developer specializing in MERN stack technologies. The website showcases Imteaz’s projects, skills, education, and contact information.
+
+## Live Demo
+
+Check out the live website here: https://imteaz.netlify.app/
+
+## Features
+
+- Responsive and modern UI built with React.js and Tailwind CSS
+- Showcases projects with live demos and descriptions
+- Detailed sections including About Me, Skills, Education, Projects, and Contact
+- Downloadable Resume button for quick access to resume PDF
+- Smooth navigation and accessibility-friendly design
+
+## Technologies Used
+
+- React.js
+- Tailwind CSS
+- JavaScript (ES6+)
+- React Router
+- Farmer motion
+- swiper.js
+
+## Installation & Setup Instructions
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Imteazhossen/your-repo-name.git
