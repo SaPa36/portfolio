@@ -40,8 +40,8 @@ const Navbar = () => {
                 <button
                     onClick={() => {
                         const link = document.createElement('a');
-                        link.href = 'https://drive.google.com/uc?export=download&id=1EfN5s4VV_61h0ss0YP_lzqgfP-c1a8ha';
-                        link.download = 'Imteaz_Hossen_Resume.pdf';
+                        link.href = '/public/CV-1.pdf';
+                        link.download = 'CV-1.pdf';
                         document.body.appendChild(link);
                         link.click();
                         document.body.removeChild(link);
